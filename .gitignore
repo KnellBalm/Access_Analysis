@@ -1,1 +1,17 @@
+# Jupyter 체크포인트
 .ipynb_checkpoints/
+
+# 환경 설정 파일 (DB 정보 보호)
+.env
+db_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+*.csv
